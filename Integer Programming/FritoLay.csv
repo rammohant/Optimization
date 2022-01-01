@@ -1,0 +1,129 @@
+Address,StoreID,DistanceA,DistanceB,DistanceC,DistanceD,TimeA,TimeB,TimeC,TimeD
+"8025 Mechanicsville Turnpike, Mechanicsville, VA 23111",1,11.1,60.5,91.3,99.7,16,57,85,103
+"4475 S Laburnum Ave, Richmond, VA 23231",2,1.3,57.1,88.1,96.6,5,57,85,103
+"1924 Walnut Dr, Chester, VA 23836",3,17.2,65.5,75.3,88.5,22,62,88,103
+"1701 E Broad St, Richmond, VA 23223",4,7.9,62.6,93.6,102,13,59,88,107
+"2308 Chamberlayne Ave, Richmond, VA 23222",5,8.7,63.3,94.4,103,14,60,89,108
+"1 E Laburnum Ave, Richmond, VA 23222",6,8.1,63.3,94.3,103,18,64,93,112
+"5024 Brook Rd, Richmond, VA 23227",7,12.7,67.3,98.3,107,19,66,95,114
+"5201 Chamberlayne Rd, Richmond, VA 23227",8,12.9,67.5,98.5,107,19,65,95,113
+"3908 Atlantic Ave, Virginia Beach, VA 23451",9,102,49.6,32.5,19.7,114,68,39,29
+"3860 Shore Dr, Virginia Beach, VA 23455",10,92.6,40.2,26.8,15,104,53,34,25
+"317 32nd St, Virginia Beach, VA 23451",11,102,49.3,31.8,19,111,58,36,27
+"2400 Pacific Ave, Virginia Beach, VA 23451",12,101,49.1,31.7,18.8,111,58,36,27
+"500 22nd St, Virginia Beach, VA 23451",13,101,48.6,31.2,18.4,108,55,33,25
+"300 Virginia Beach Blvd, Virginia Beach, VA 23451",14,101,49,31.6,18.8,111,57,35,26
+"1010 Pacific Ave, Virginia Beach, VA 23451",15,102,49.5,32,19.2,112,58,37,28
+"745 Virginia Beach Blvd, Virginia Beach, VA 23451",16,101,48.7,31.2,18.4,110,55,34,26
+"853 First Colonial Rd, Virginia Beach, VA 23451",17,99,46,29.2,16.4,108,50,33,25
+"1829 Laskin Rd, Virginia Beach, VA 23454",18,98.3,46,28.5,15.7,106,51,31,22
+"325 N Great Neck Rd, Virginia Beach, VA 23454",19,97.4,45.1,27.6,14.8,108,53,32,24
+"2456 Virginia Beach Blvd, Virginia Beach, VA 23454",20,97.2,42.9,27.4,14.6,107,50,32,24
+"3673 Virginia Beach Blvd, Virginia Beach, VA 23452",21,94.6,42.3,24.8,11.6,105,50,30,21
+"798 Lynnhaven Pkwy, Virginia Beach, VA 23452",22,97.7,45.4,27.9,11.1,110,54,33,25
+"134 Thalia Village Shoppes, Virginia Beach, VA 23452",23,93.9,41.6,24.1,10.4,106,49,29,21
+"4600 Virginia Beach Blvd, Virginia Beach, VA 23462",24,93,40.7,23.2,9.5,105,47,28,20
+"325 Kellam Rd, Virginia Beach, VA 23462",25,92.5,40.2,22.7,9.4,105,47,28,20
+"5108 Virginia Beach Blvd, Virginia Beach, VA 23462",26,91.5,39.2,21.7,8.4,101,44,25,17
+"3312 Holland Rd, Virginia Beach, VA 23452",27,95.8,43.5,25.9,9.8,110,54,34,23
+"4464 Princess Anne Rd, Virginia Beach, VA 23462",28,94.5,43.1,23.6,8,109,50,31,19
+"4660 Princess Anne Rd, Virginia Beach, VA 23462",29,94.1,41.7,23.3,7.6,106,48,29,19
+"3025 E Virginia Beach Blvd, Norfolk, VA 23504",30,86.5,33.9,16.2,8.9,100,43,22,19
+"2256 Red Tide Rd, Virginia Beach, VA 23451",31,94.2,34,28.4,16.6,109,43,36,27
+"1160 Portsmouth Blvd, Suffolk, VA 23434",32,87,42.2,8.6,20.5,100,44,14,28
+"2205 Princess Anne Rd, Virginia Beach, VA 23456",33,102,49.3,30.5,14.9,125,66,42,28
+"4720 Hampton Blvd, Norfolk, VA 23508",34,85.8,33.5,15.8,13.8,100,43,22,28
+"8105 hampton blvd, norfolk va 23505",35,85.3,33,18.8,16.8,98,41,31,28
+"6100 Tidewater Dr, Norfolk, VA 23509",36,83,30.7,17.5,11,92,36,25,21
+"2220 Pleasure House Rd, Virginia Beach, VA 23455",37,90.9,38.6,25.1,13.4,106,48,33,24
+"896 Diamond Springs Rd, Virginia Beach, VA 23455",38,88.3,36,22.5,10.2,102,44,28,19
+"4904 Haygood Rd, Virginia Beach, VA 23455",39,89.7,37.4,23.8,10.5,105,46,31,22
+"720 Independence Blvd, Virginia Beach, VA 23455",40,94.4,42,24.6,10.4,110,49,30,21
+"696 Aragona Blvd, Virginia Beach, VA 23462",41,92.6,40.3,22.8,9.5,107,46,28,19
+"130 S Newtown Rd, Virginia Beach, VA 23462",42,89.7,37.4,19.7,7.9,101,42,24,15
+"6673 Indian River Rd, Virginia Beach, VA 23464",43,91.6,39.3,20.2,5.3,104,45,25,15
+"6020 Godwin Blvd, Suffolk, VA 23432",44,84,31.7,13.4,30.3,92,43,24,44
+"1025 Eden Way N, Chesapeake, VA 23320",45,95.1,42.8,17.4,1.5,109,49,23,6
+"1040 S Battlefield Blvd, Chesapeake, VA 23322",46,103,50.6,20,6.9,116,53,23,12
+"1869 Kempsville Rd, Virginia Beach, VA 23464",47,94.1,41.8,21.9,3.9,109,48,27,10
+"5201 Providence Rd, Virginia Beach, VA 23464",48,93.2,40.8,21.9,6.1,106,48,28,15
+"5191 W Military Hwy, Chesapeake, VA 23321",49,88.9,34.5,6,14.4,100,40,11,23
+"975 E Little Creek Rd, Norfolk, VA 23518",50,83.7,30.2,25,13.3,92,38,31,21
+"4800 Shore Dr, Virginia Beach, VA 23455",51,90.9,37.5,25.1,13.3,102,46,34,24
+"2916 Godwin Blvd, Suffolk, VA 23434",52,80.5,46.4,9.9,25.5,96,50,17,39
+"5701 Northampton Blvd, Virginia Beach, VA 23455",53,88,34.8,22.2,10.4,97,44,29,19
+"3360 E Princess Anne Rd, Norfolk, VA 23502",54,85.3,32.5,17,12.1,94,42,28,24
+"201 S Rosemont Rd, Virginia Beach, VA 23452",55,94.6,41.6,24.8,13.1,102,49,29,20
+"1921 Centerville Turnpike, Virginia Beach, VA 23464",56,93.7,40.4,25.1,3.3,101,47,26,8
+"471 Kempsville Rd, Chesapeake, VA 23320",57,97.3,44.9,18.4,2.2,109,26,24,6
+"5048 Ferrell Pkwy, Virginia Beach, VA 23464",58,93.2,39.9,21,5.3,104,48,28,15
+"4377 Holland Rd, Virginia Beach, VA 23452",59,92.9,40.6,23.1,11.3,100,47,26,17
+"720 Woodlake Dr, Chesapeake, VA 23320",60,94,43.6,17.6,2.4,102,50,23,10
+"2954 Virginia Beach Blvd, Virginia Beach, VA 23452",61,95.9,41.7,26.4,14.3,107,49,33,24
+"2501 Virginia Beach Blvd, Virginia Beach, VA 23452",62,97.1,43.6,27.4,15.6,104,50,32,23
+"4005 Victory Blvd, Portsmouth, VA 23701",63,92.1,39,7,14.1,93,42,17,24
+"1200 Frederick Blvd, Portsmouth, VA 23707",64,91.3,37.7,11.1,12.7,91,43,16,22
+"3408 Western Branch Blvd, Chesapeake, VA 23321",65,82.8,29.5,6.9,19.7,84,35,11,27
+"101 Hillcrest Pwky, Chesapeake, VA 23322",66,106,51.7,22.8,9.7,107,60,28,17
+"720 London St, Portsmouth, VA 23704",67,90.9,37.4,12.7,10.8,91,43,17,20
+"980 J Clyde Morris Blvd, Newport News, VA 23601",89,63,11.2,25.8,33.2,63,14,30,40
+"2900-K, Hampton Hwy, Yorktown, VA 23693",90,65,11,25.4,33.6,69,21,31,44
+"11712-0 Jefferson Ave, Newport News, VA 23607",91,62.8,7.6,21.8,34.7,65,18,30,43
+"41 Hiden Blvd, Newport News, VA 23606",92,64.5,8.9,21.8,36.7,69,20,31,47
+"1164 Big Bethel Rd, Hampton, VA 23666",93,67.2,14,22.5,31,66,19,26,41
+"10880 Warwick Blvd, Newport News, VA 23601",94,67.6,11,19.4,32.8,70,25,27,42
+"85 Coliseum Crossing, Hampton, VA 23666",95,70.2,16,21.3,28.6,71,21,28,39
+"21 W Mercury Blvd, Hampton, VA 23669",96,70.2,17.8,21.3,27,71,23,27,36
+"3855 Kecoughtan Rd, Hampton, VA 23669",97,72,19.1,20.3,25.9,74,24,29,38
+"183 Main St, Mathews, VA 23109",98,66.1,35.9,70.1,73,77,47,83,97
+"7465 Hargett Blvd, Gloucester, VA 23061",99,52.1,21,54.4,58.1,59,31,66,80
+"2292 York Crossing Dr, Hayes, VA 23072",100,60,10.1,43.6,47.2,65,16,50,65
+"701-A Merrimac Trail, Williamsburg, VA 23185",101,45.6,11.6,43.5,51,48,17,47,59
+"5251 John Tyler Hwy, Williamsburg, VA 23185",102,46.6,15.9,46.6,55.2,47,23,49,65
+"1234 Richmond Rd, Williamsburg, VA 23185",103,46.4,15.1,46.1,54.4,50,23,50,64
+"5601 Richmond Rd Ste A Ste A, Williamsburg, VA 23188",104,42.6,17.6,48.7,56.9,46,25,53,66
+"12532 Tidewater Trail, Saluda, VA 23149",105,47.1,36.9,70.4,74.1,54,48,84,97
+"9030 Pocahontas Trail, Providence Forge, VA 23140",106,20.1,37.6,68.6,76.9,27,42,71,83
+"5625 New Kent Hwy, Quinton, VA 23141",107,14.1,50.8,76.2,90.1,18,49,74,91
+"4915 Richmond Tappahannock Hwy, Aylett, VA 23009",108,22.7,60.8,92.6,100,33,70,100,112
+"1228 Concord Ave, Richmond, VA 23227",109,15.2,66.8,99.1,106,23,66,94,107
+"9502 Chamberlayne Rd, Mechanicsville, VA 23116",110,14.5,63.5,94.6,103,21,63,91,104
+"5300 Chamberlayne Rd, Richmond, VA 23227",111,12.5,66.8,98.3,106,19,65,96,106
+"3089 Mechanicsville Turnpike, Richmond, VA 23223",112,6,60.6,92.3,99.9,16,59,90,100
+"8319 Bell Creek Rd, Mechanicsville, VA 23116",113,13.5,61.5,93.7,101,19,60,89,101
+"7095 Mechanicsville Turnpike, Mechanicsville, VA 23111",114,9.1,60,92.3,99.3,20,58,89,100
+"6009 Nine Mile Rd, Richmond, VA 23223",115,2.5,56.6,88.5,95.9,6,57,86,99
+"2949 Williamsburg Rd, Richmond, VA 23231",116,3,58.1,89.2,97.4,8,59,87,100
+"2599 New Market Rd, Richmond, VA 23231",117,7.1,59.6,90.7,98.9,16,58,87,99
+"9541 Kings Charter Dr, Ashland, VA 23005",118,19.7,68.4,100,108,25,65,94,106
+"7300 Market Pl Dr, Quinton, VA 23141",119,10.9,47.6,78.6,86.9,16,46,74,89
+"2589 New Kent Hwy, Quinton, VA 23141",120,10.3,47,78.7,86.3,15,46,75,88
+"13145 Rivers Bend Blvd, Chester, VA 23836",121,16.2,65.1,76.1,104,22,62,88,104
+"5209 Plaza Dr, Hopewell, VA 23860",122,23.1,71.7,68.5,81.9,29,69,84,100
+"4915 Richmond Tappahannock Hwy, Aylett, VA 23009",123,22.7,60.8,92.6,100,33,71,100,113
+"9030 Pocahontas Trail, Providence Forge, VA 23140",124,20.1,37.6,68.6,76.9,27,42,72,84
+"100 Winters St, West Point, VA 23181",125,33.8,37.2,69,76.5,38,41,72,84
+"7537 Richmond Rd, Williamsburg, VA 23188",126,37.5,22.3,53.2,61.6,39,26,55,68
+"5251 John Tyler Hwy, Williamsburg, VA 23185",127,46.6,15.9,46.6,55.2,47,23,49,65
+"701-A Merrimac Trail, Williamsburg, VA 23185",128,45.6,11.6,43.5,51,48,17,47,59
+"5601 Richmond Rd Ste A Ste A, Williamsburg, VA 23188",129,42.6,17.6,48.7,56.9,46,25,53,67
+"2401 Colley Ave Norfolk, VA 23517",130,86.6,33.4,15.4,13,93.3,43,22,27
+"1503 London Blvd Portsmouth, VA 23704",131,90,36.8,12.5,13.2,89,40,17,21
+"3530 Tidewater Dr Norfolk, VA 23509",132,85,36,26,22,84,30.8,17.6,15.3
+"2544 Bainbridge Blvd Chesapeake, VA 23324",133,95.5,42.3,16.9,6.7,96,47,23,15
+"1235 N Military Hwy Norfolk, VA 23502",134,87.1,33.9,20,9.9,90,41,27,18
+"2048 Atlantic Ave. Ste A Chesapeake, VA 23324",135,97.1,43.9,17,3.6,99,49,23,12
+"2012 Victory Blvd. Portsmouth, VA 23702",136,94,40.7,11.2,9.2,94,45,18,20
+"6206 Military Highway Norfolk, VA 23518",137,84.8,31.6,24.4,12.8,86,37,31,19
+"880 S. Military & Indian Riv Virginia Beach, VA 23464",138,91.7,38.5,20.8,4.8,93,44,27,14
+"6527 College Park Square Virginia Beach, VA 23464",139,92.1,38.9,21.2,4.4,94,45,28,13
+"7525 Tidewater Drive Norfolk, VA 23505",140,82.7,29.5,19.8,14.6,83,35,31,20
+"5610 Portsmouth Blvd Portsmouth, VA 23701",141,88.5,35.3,5.5,14.3,90,41,13,24
+"1859 E. Little Creek Rd Norfolk, VA 23518",142,84.5,31.3,26.4,14.8,88,39,34,23
+"8401 Hampton Bvld. Norfolk, VA 23505",143,84.6,31.3,19.1,19.6,88,39,32,27
+"5734 Churchland Blvd. Portsmouth, VA 23703",144,84.8,31.6,6.5,19.6,84,36,16,27
+"3539 Airline Blvd. Portsmouth, VA 23701",145,91,37.7,8.2,13,89,40,13,20
+"2800 Yadkin Rd Chesapeake, VA 23323-2226",146,94.1,40.8,11.3,8.8,93,44,17,17
+"5461 Wesleyan Dr Virginia Beach, VA 23462",147,88.3,35.1,22.2,11.7,90,41,32,20
+"801 Volvo Parkway Chesapeake, VA 23320",148,95.1,41.8,18.8,0.6,98,49,27,3
+"5277 Princess Anne Road Virginia Beach, VA 23462",149,91.6,38.4,22.5,7.3,94,45,30,17
